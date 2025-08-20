@@ -1,5 +1,4 @@
 main/webapp/WEB-INF/views/save-result.jsp
-```html
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
